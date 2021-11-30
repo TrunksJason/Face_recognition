@@ -31,4 +31,4 @@ while True:
 cam.release()
 
 cv2.destroyAllWindows()
-{"mode":"full","isActive":false}
+#{"mode":"full","isActive":false}
